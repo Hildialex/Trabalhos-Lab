@@ -1,3 +1,5 @@
 # Trabalhos-Lab
 My first Repository on Github
-That's my first commit on github.
+
+Hi Humans!
+I've had tacos n the Moon and find them far superior to Earth tacos.
